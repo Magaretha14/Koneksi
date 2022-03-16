@@ -14,6 +14,7 @@ namespace Koneksi
             new Program().Connecting();
         }
 
+        //method koneksi
         public void Connecting()
         {
             using (
